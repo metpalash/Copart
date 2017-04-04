@@ -60,4 +60,5 @@ Address:______ Street name 1: ______ Street Name 2:_____ City:_____ State:______
 Use any open source tool extract the Vehicle ID Number, Plate Number & Certificate Name pdf/image file. Sample docs can be found in Documents/Title Docs Folder.
 
 # Compile Instruction
-
+Need Python Compile for the file to compile. 
+Compile the file PDF.py
