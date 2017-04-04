@@ -35,7 +35,7 @@ String
 # Output
 Integer
 
-# 3.Phone Component - Address Component Probelem
+# 3.Phone Component - Address Component Problem
 
 # Problem
 Phone Component: validation and auto format. a). As you enter numbers, the phone field should auto format. Format should look like (123) 456-7890. b). As you delete/backspace numbers from right to left, the format should auto adjust. After removing last 4 digits, the hyphen should go away and rest of the numbers format remain same: (123) 456 but should display error message:Invalid phone number, if user leaves field incomplete and goes to another field:
@@ -49,7 +49,7 @@ b). Address fields should be editable after populating address from google api.
 Address:______ Street name 1: ______ Street Name 2:_____ City:_____ State:______ Zipcode:_____
 
 # Compile Instruction
-To run code you should have node installed
-Type npm install in current directory to download required packages
-To start the program type npm start
-For more details read package.json
+-To run code you should have node installed
+-Type npm install in current directory to download required packages
+-To start the program type npm start
+-For more details read package.json
