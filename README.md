@@ -28,6 +28,7 @@ Without using any Integer functions like parseInt/valueOf convert the String to 
 
 # Compile Instruction
 Compile StringToNumber.java
+
 #Input
 String
 
