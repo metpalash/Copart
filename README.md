@@ -49,7 +49,7 @@ b). Address fields should be editable after populating address from google api.
 Address:______ Street name 1: ______ Street Name 2:_____ City:_____ State:______ Zipcode:_____
 
 # Compile Instruction
-#To run code you should have node installed
+#To run code you should have node installed. Extract Address_Phone.zip
 #Type npm install in current directory to download required packages
 #To start the program type npm start
 #For more details read package.json
